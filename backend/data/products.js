@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Black and White Cake',
     image: '/images/bw-cake.jpg',
     description:'Moist vanilla cake with chocolate, mocha, and vanilla buttercream frosting.',
@@ -11,7 +10,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Fruit Tartlets',
     image: '/images/fruit-tart.jpg',
     description:'1 dozen bite-sized fruit tarts with assorted fruit toppings. Buttery base, creamy vanilla filling and sweet fruit topping',
@@ -22,7 +20,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Strawberry Cupcakes',
     image: '/images/straw-cupcake.jpg',
     description: '1 dozen buttery vanilla cupcakes topped with strawberry buttercream and a strawberry topper.',
@@ -33,7 +30,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Macaron Cake',
     image: '/images/macaron-cake.jpg',
     description:
@@ -45,7 +41,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Donuts',
     image: '/images/donuts.jpg',
     description: '6 fresh fun donuts with assorted toppings.',
@@ -56,7 +51,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Chocolate Layer Cake',
     image: '/images/choc-layer.jpg',
     description:
